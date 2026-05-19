@@ -1,7 +1,7 @@
 {
   "name": "modulo-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Material didático para introdução a **APIs REST** com **Node.js** e **Express**. Este repositório faz parte das aulas da **LionsDev** e serve como base prática para os alunos entenderem como criar e executar um servidor HTTP simples.",
   "type": "module",
   "dependencies": {
     "express": "^4.22.2",
@@ -9,5 +9,10 @@
   },
   "scripts": {
     "start": "nodemon ./src/index.js"
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
